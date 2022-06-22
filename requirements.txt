@@ -23,7 +23,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.2
 mccabe==0.6.1
 nltk==3.4.5
-numpy==1.18.0
+numpy==1.22.0
 oauthlib==3.1.0
 openpyxl==2.6.3
 panda==0.3.1
